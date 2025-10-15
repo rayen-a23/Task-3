@@ -1,0 +1,15 @@
+# Sistem
+.DS_Store
+Thumbs.db
+
+# Dependency
+node_modules/
+vendor/
+
+# Build
+dist/
+build/
+
+# Config
+.env
+*.log
